@@ -1,1 +1,2 @@
-# submodule-children-b
+# SubModule Children B
+
